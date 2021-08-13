@@ -1,4 +1,4 @@
-## Olá! Eu sou o Bernardo 🐉
+## <center>Olá! Eu sou o Bernardo 🐉</center>
 
 - 🔭 Estou no 1° ano do ensino médio
 - 🌱 Estudando Front-end na Alura
