@@ -3,12 +3,11 @@
 - 🔭 Estou no 1° ano do ensino médio
 - 🌱 Estudando Front-end na Alura
 
- <div>
-  <a href="https://github.com/BernardoSteffens">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BernardoSteffens&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSteffens&layout=compact&langs_count=7&theme=tokyonight"/>
+<div>
+<img width="400" height="140em" src="https://github-readme-stats.vercel.app/api?username=BernardoSteffens&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+<img width="400" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSteffens&layout=compact&langs_count=5&theme=bear"/> 
 </div>
-  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="ber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
