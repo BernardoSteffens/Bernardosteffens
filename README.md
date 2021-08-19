@@ -4,8 +4,8 @@
 - 🌱 Estudando Front-end na Alura
 
 <div>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=BernardoSteffens&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSteffens&layout=compact&langs_count=5&theme=bear"/> 
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=BernardoSteffens&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSteffens&layout=compact&langs_count=5&theme=tokyonight"/> 
 </div>
  
 <div style="display: inline_block"><br>
